@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Stathis Moraitidis",
+    "label": "Senior Software Engineer",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEhOywPGRr8tQ/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=0Hkcg1SEe-BpnjTqdlPULodVack98b1ikLpxH0PquqY",
+    "summary": "I am a Senior/Lead Software Enginneer with a backend and full stack focus. For the past few years I've worked mostly at startups so I am used to wearing many hats. I care deeply about building elegant and maintainable solutions, with a great user and developer experience in mind.",
+    "email": "emoraitidis@gmail.com",
+    "location": {
+      "city": "London",
+      "countryCode": "UK",
+      "address": "London, UK"
+    },
+    "profiles": [
+      {
+        "url": "https://www.linkedin.com/in/emoraitidis/",
+        "username": "emoraitidis",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/strahius",
+        "username": "strahius",
+        "network": "github"
+      }
+    ],
+    "phone": "+44 7514259526"
+  },
+  "education": [
+    {
+      "endDate": "2010-02-01",
+      "startDate": "2007-03-01",
+      "area": "Computer Science",
+      "studyType": "MSc",
+      "institution": "University of Piraeus",
+      "location": {
+        "city": "Athens",
+        "countryCode": "GR",
+        "address": "Athens, Greece"
+      },
+      "gpa": "9.4"
+    },
+    {
+      "institution": "University of Athens",
+      "location": {
+        "city": "Athens",
+        "countryCode": "GR",
+        "address": "Athens, Greece"
+      },
+      "studyType": "BSc",
+      "area": "Economics",
+      "gpa": "6.5",
+      "startDate": "2001-09-01",
+      "endDate": "2006-02-01"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Responsible for the automated monthly delivery of content to partners.",
+        "Owned all server-mobile APIs. I was the point of contact for existing implementations as well as all new development in the area.",
+        "Implemented intergrations around user login flows (e.g. Apple Sign In).",
+        "Facilitated team processes, worked towards enhancing developer experience and tackling technical debt."
+      ],
+      "company": "Hopster",
+      "position": "Senior Backend Engineer",
+      "location": {
+        "city": "London",
+        "countryCode": "UK",
+        "address": "London, UK"
+      },
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-01"
+    },
+    {
+      "highlights": [
+        "Implemented various features across the company’s stack and products. Technologies mostly used were Python, JavaScript, React, PostgreSQL and AWS.",
+        "Overviewed larger-scale projects, keeping track of progress and feeding back to product team.",
+        "Line-managed two colleagues.",
+        "Helped more junior members of the team with their everyday queries.",
+        "Conducted interviews for development and product teams.",
+        "Helped in shaping and organising some of the team's processes."
+      ],
+      "company": "We Got Pop",
+      "position": "Lead Software Engineer",
+      "location": {
+        "city": "London",
+        "countryCode": "UK",
+        "address": "London, UK"
+      },
+      "startDate": "2015-12-01",
+      "endDate": "2019-12-01"
+    },
+    {
+      "highlights": [
+        "Implemented new functionality, enhancements and fixes, using C++, C, Microsoft SQL Server.",
+        "Participated actively in meetings with product owners and managers during the planning process.",
+        "Created a tool that unifies all developers' internal programs, making them easily accessible.",
+        "Occasionally undertook team-leading responsibilities."
+      ],
+      "company": "IT2 Treasury Solutions",
+      "position": "Software Engineer",
+      "location": {
+        "city": "London",
+        "countryCode": "UK",
+        "address": "London, UK"
+      },
+      "startDate": "2013-09-01",
+      "endDate": "2015-11-01"
+    },
+    {
+      "highlights": [
+        "Implemented a regression test framework for testing various products across the company. I was keeping track of new requests, resolving issues or assigning them to other team members.",
+        "Ported a process (~8k lines) from Java to C++.",
+        "Extended an existing web-based tool for testing market trading."
+      ],
+      "company": "Fidessa",
+      "position": "Software Engineer",
+      "location": {
+        "city": "London",
+        "countryCode": "UK",
+        "address": "London, UK"
+      },
+      "startDate": "2011-01-01",
+      "endDate": "2013-09-01"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Python",
+        "PostgreSQL",
+        "MySQL",
+        "Node",
+        "C++",
+        "Java",
+        "C#"
+      ],
+      "level": "",
+      "name": "Backend"
+    },
+    {
+      "keywords": ["HTML", "Javascript / Typescript", "CSS", "React", "Redux"],
+      "level": "",
+      "name": "Frontend"
+    },
+    {
+      "keywords": [
+        "AWS (EC2, ECS, SNS, Lambda etc)",
+        "GCP (GAE, GCE, Cloud Tasks, etc)",
+        "Jenkins"
+      ],
+      "level": "",
+      "name": "Devops"
+    },
+    {
+      "keywords": ["Linux", "Git", "OpenGL", "Unity"],
+      "name": "Other"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Bit Pong",
+      "description": "A mobile and web game, built in Javascript.",
+      "url": "https://github.com/strahius/bit-pong",
+      "languages": ["TypeScript"],
+      "tools": ["Node.js", "Parcel", "Phaser", "Cordova"],
+      "capacities": ["Manager", "Architect", "Developer"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Movies",
+      "keywords": ["cinema", "series", "festivals"]
+    },
+    {
+      "name": "Games",
+      "keywords": ["video games", "board games", "development"]
+    },
+    {
+      "name": "Music",
+      "keywords": ["gigs", "festivals"]
+    },
+    {
+      "name": "Sport",
+      "keywords": ["basketball", "cycling", "table tennis"]
+    }
+  ]
+}
