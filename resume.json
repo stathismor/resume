@@ -60,7 +60,7 @@
       "highlights": [
         "Responsible for the automated monthly delivery of content to partners.",
         "Owned all server-mobile APIs. I was the point of contact for existing implementations as well as all new development in the area.",
-        "Implemented intergrations around user login flows (e.g. Apple Sign In).",
+        "Implemented integrations around user login flows (e.g. Apple Sign In).",
         "Facilitated team processes, worked towards enhancing developer experience and tackling technical debt."
       ],
       "company": "Hopster",
@@ -155,7 +155,7 @@
       "name": "Devops"
     },
     {
-      "keywords": ["Linux", "Git", "OpenGL", "Unity"],
+      "keywords": ["Linux", "Git", "Unity", "OpenGL"],
       "name": "Other"
     }
   ],
