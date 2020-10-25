@@ -6,7 +6,7 @@
     "name": "Stathis Moraitidis",
     "label": "Senior Software Engineer",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEhOywPGRr8tQ/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=0Hkcg1SEe-BpnjTqdlPULodVack98b1ikLpxH0PquqY",
-    "summary": "I am a Senior/Lead Software Enginneer with a backend and full stack focus. For the past few years I've worked mostly at startups so I am used to wearing many hats. I care deeply about building elegant and maintainable solutions, with a great user and developer experience in mind.",
+    "summary": "I am a Senior/Lead Software Enginneer with more than 10 years of experience and a backend and full stack focus. For the past few years I've worked mostly at startups so I am used to wearing many hats. I care deeply about building elegant and maintainable solutions, with a great user and developer experience in mind.",
     "email": "emoraitidis@gmail.com",
     "location": {
       "city": "London",
@@ -58,7 +58,7 @@
   "work": [
     {
       "highlights": [
-        "Responsible for the automated monthly delivery of content to partners.",
+        "Responsible for the automated monthly delivery of content to partners. This involves a combination of GAE, GCE, Cloud Tasks, etc",
         "Owned all server-mobile APIs. I was the point of contact for existing implementations as well as all new development in the area.",
         "Implemented integrations around user login flows (e.g. Apple Sign In).",
         "Facilitated team processes, worked towards enhancing developer experience and tackling technical debt."
