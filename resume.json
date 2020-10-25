@@ -6,7 +6,7 @@
     "name": "Stathis Moraitidis",
     "label": "Senior Software Engineer",
     "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEhOywPGRr8tQ/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=0Hkcg1SEe-BpnjTqdlPULodVack98b1ikLpxH0PquqY",
-    "summary": "I am a Senior/Lead Software Engineer with more than 10 years of experience and a backend and full stack focus. For the past few years I've worked mostly at startups so I am used to wearing many hats. I care deeply about building elegant and maintainable solutions, while having a great user and developer experience in mind.",
+    "summary": "I am a Senior/Lead Software Engineer with more than 10 years of experience and a backend and full stack focus. For the past few years I've worked mostly at startups so I am used to wearing many hats. I care deeply about building elegant and maintainable solutions, while keeping a great user and developer experience in mind.",
     "email": "emoraitidis@gmail.com",
     "location": {
       "city": "London",
@@ -141,7 +141,7 @@
       "name": "Backend"
     },
     {
-      "keywords": ["HTML", "Javascript / Typescript", "CSS", "React", "Redux"],
+      "keywords": ["HTML", "JavaScript / Typescript", "CSS", "React", "Redux"],
       "level": "",
       "name": "Frontend"
     },
@@ -162,7 +162,7 @@
   "projects": [
     {
       "name": "Bit Pong",
-      "description": "A mobile and web game, built in Javascript.",
+      "description": "A mobile and web game, built in JavaScript.",
       "url": "https://github.com/strahius/bit-pong",
       "languages": ["TypeScript"],
       "tools": ["Node.js", "Parcel", "Phaser", "Cordova"],
