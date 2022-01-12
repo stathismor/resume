@@ -5,7 +5,7 @@
   "basics": {
     "name": "Stathis Moraitidis",
     "label": "Senior Software Engineer",
-    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEhOywPGRr8tQ/profile-displayphoto-shrink_200_200/0?e=1608768000&v=beta&t=0Hkcg1SEe-BpnjTqdlPULodVack98b1ikLpxH0PquqY",
+    "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEhOywPGRr8tQ/profile-displayphoto-shrink_800_800/0/1553967433619?e=1647475200&v=beta&t=FYEcv7N_KZZIKDIfDDy7o8Nkw-BN-nm91sRF28x7z0o",
     "summary": "I am a Senior/Lead Software Engineer with more than 10 years of experience and a backend and full stack focus. For the past few years I've worked mostly at startups so I am used to wearing many hats. I care deeply about building elegant and maintainable solutions, while keeping a great user and developer experience in mind.",
     "email": "emoraitidis@gmail.com",
     "location": {
@@ -20,8 +20,8 @@
         "network": "linkedin"
       },
       {
-        "url": "https://github.com/strahius",
-        "username": "strahius",
+        "url": "https://github.com/stathismor",
+        "username": "stathismor",
         "network": "github"
       }
     ],
@@ -58,6 +58,21 @@
   "work": [
     {
       "highlights": [
+        "Took ownership of existing built-in CI/CD system. I maintain and improve it while helping colleagues with any queries.",
+        "Working on a team that builds a new CI/CD system to accomodate internal as well as customers' needs."
+      ],
+      "company": "Balena",
+      "position": "Senior Backend/DevOps Engineer",
+      "location": {
+        "city": "London/Remote",
+        "countryCode": "EU",
+        "address": "London, UK"
+      },
+      "startDate": "2021-01-01",
+      "endDate": ""
+    },
+    {
+      "highlights": [
         "Responsible for the automated monthly delivery of content to partners. This involved a combination of GAE, GCE, Cloud Tasks, etc.",
         "Owned all server-mobile APIs. I was the point of contact for existing implementations as well as all new development in the area.",
         "Implemented integrations around user login flows (e.g. Apple Sign In).",
@@ -75,7 +90,7 @@
     },
     {
       "highlights": [
-        "Implemented various features across the company’s stack and products. Technologies mostly used were Python, JavaScript, React, PostgreSQL and AWS.",
+        "Implemented various features across the company's stack and products. Technologies mostly used were Python, JavaScript, React, PostgreSQL and AWS.",
         "Overviewed larger-scale projects, keeping track of progress and feeding back to product team.",
         "Line-managed two colleagues.",
         "Helped more junior members of the team with their everyday queries.",
@@ -130,23 +145,23 @@
     {
       "keywords": [
         "Python",
+        "TypeScript",
         "PostgreSQL",
         "MySQL",
         "Node",
-        "C++",
-        "Java",
-        "C#"
+        "Bash"
       ],
       "level": "",
       "name": "Backend"
     },
     {
-      "keywords": ["HTML", "JavaScript / Typescript", "CSS", "React", "Redux"],
+      "keywords": ["HTML", "JavaScript / TypeScript", "CSS", "React", "Redux", "Vue"],
       "level": "",
       "name": "Frontend"
     },
     {
       "keywords": [
+        "Docker",
         "AWS (EC2, ECS, SNS, Lambda etc)",
         "GCP (GAE, GCE, Cloud Tasks, etc)",
         "Jenkins"
@@ -163,7 +178,7 @@
     {
       "name": "Bit Pong",
       "description": "A mobile and web game, built in JavaScript.",
-      "url": "https://github.com/strahius/bit-pong",
+      "url": "https://github.com/stathismor/bit-pong",
       "languages": ["TypeScript"],
       "tools": ["Node.js", "Parcel", "Phaser", "Cordova"],
       "capacities": ["Manager", "Architect", "Developer"]

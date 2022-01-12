@@ -1,0 +1,24 @@
+{
+  "name": "stathis-resume",
+  "version": "1.0.0",
+  "description": "Stathis Resume",
+  "dependencies": {
+    "jsonresume-theme-stackoverflow-ibic": "^1.4.5",
+    "resume-cli": "^3.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "resume export index.html --theme stackoverflow-ibic",
+    "pdf": "resume export Stathis_Moraitidis_Resume.pdf --theme stackoverflow-ibic"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stathismor/resume.git"
+  },
+  "author": "Stathis Moraitidis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stathismor/resume/issues"
+  },
+  "homepage": "https://github.com/stathismor/resume#readme"
+}
